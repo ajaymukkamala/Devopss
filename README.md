@@ -1,2 +1,2 @@
 # Devopss
-it is created for practical purpose
+it is created for practical purpos
